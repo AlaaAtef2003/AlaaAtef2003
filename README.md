@@ -80,9 +80,7 @@
     <img src="https://skillicons.dev/icons?i=octave"  width="40" height="40"/><br>
   </a>
 </p>
-
----
-<h3 align="left">📊 GitHub Stats (From 2023):</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=alaaatef2003&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
@@ -91,5 +89,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaaatef2003&theme=transparent" alt="GitHub Streak" />
   <br />
   <!-- Most Used Languages -->
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaatef2003&layout=compact&theme=transparent" alt="Most Used Languages" />
 </div>

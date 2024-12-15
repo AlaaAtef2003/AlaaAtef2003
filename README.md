@@ -43,6 +43,7 @@
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
+    
   </a>
 
   <!-- Tools -->
@@ -72,9 +73,11 @@
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
+    
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=octave"  width="40" height="40"/><br>
   </a>
 </p>
 

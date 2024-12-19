@@ -89,5 +89,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaaatef2003&theme=transparent" alt="GitHub Streak" />
   <br />
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaatef2003&layout=compact&theme=transparent" alt="Most Used Languages" />
+<! img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaatef2003&layout=compact&langs_count=10&theme=transparent" alt="Most Used Languages" />
+
 </div>

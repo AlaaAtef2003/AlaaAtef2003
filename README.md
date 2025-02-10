@@ -11,7 +11,7 @@
 <p align="center">
   - 🎓 Currently pursuing a degree at <strong>Faculty of Engineering, Ain-Shams University</strong>.<br>
   - 💼 Actively expanding my skills in programming and software development.<br>
-  - 🌱 Interested in [insert specific interests, e.g., AI, web development].<br>
+  - 🌱 Interested in  web development.<br>
   - 📫 Reach me at: <strong>alaaatef413@gmail.com</strong>
 </p>
 

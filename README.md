@@ -1,13 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Alaa Atef</h1>
-<p align="center">
-  <img src="https://media1.giphy.com/media/IUeE2h8ooyNfGoWHvf/giphy.gif?cid=6c09b952oi62imt9hjiznd49nak4bsyrcb7frs9ly4n4h8dg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300">
-</p>
-<!-- Profile View Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alaaatef2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
+<div style="max-width: 600 px; margin-left: 20 px; display:flex ; flex-direction:colume;">
 <!-- About Section -->
 ### About Me
 <p align="center">
@@ -16,23 +9,19 @@
   - 🌱 Interested in  web development.<br>
   - 📫 Reach me at: <strong>alaaatef413@gmail.com</strong>
 </p>
-
----
-
-<!-- Connect With Me Section -->
-### Connect with Me:
+</div>
 <p align="center">
-  <a href="https://linkedin.com/in/alaaatef" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/alaaatef" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/alaaatef" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://fb.com/alaaatef" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.hackerrank.com/alaaatef413" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  <a href="https://www.hackerrank.com/alaaatef413" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://codeforces.com/profile/alaa_atef2003" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  <a href="https://codeforces.com/profile/alaa_atef2003" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-00A1DB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
 
@@ -97,6 +86,9 @@
 ---
 
 ### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://media1.giphy.com/media/IUeE2h8ooyNfGoWHvf/giphy.gif?cid=6c09b952oi62imt9hjiznd49nak4bsyrcb7frs9ly4n4h8dg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300" height="250">
+</p>
 <p align="center">
 </p>
 <div align="center">

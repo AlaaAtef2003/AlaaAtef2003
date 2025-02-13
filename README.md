@@ -1,6 +1,8 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Alaa Atef</h1>
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/IUeE2h8ooyNfGoWHvf/giphy.gif?cid=6c09b952oi62imt9hjiznd49nak4bsyrcb7frs9ly4n4h8dg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300">
+</p>
 <!-- Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alaaatef2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />

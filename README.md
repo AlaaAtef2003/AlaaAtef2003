@@ -96,7 +96,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZmaG5yNXR6OXMybnBpYjZwZWllNXZjNWNzamVodXU4Zm1sdHZyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kd3JPB3xcdr9CnRZII/giphy.gif" alt="Animated GIF" width="300" />
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alaaatef2003&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
